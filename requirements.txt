@@ -1,0 +1,5 @@
+langchain-community==0.2.16
+langchain-core==0.2.39
+langchain-openai==0.1.23
+openai==1.45.0
+pinecone-client==5.0.1
